@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.exe
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.deps.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.genruntimeconfig.cache
